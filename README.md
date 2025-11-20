@@ -22,21 +22,26 @@
 ### 🧠 Skills & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/-Framer%20Motion-FF0055?logo=framer&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vivado-FFB300">
-  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white">
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/-CI%2FCD-FF6F00?logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Framer%20Motion-FF0055?logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-FF6F00?logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Verilog-8A2BE2" />
+  <img src="https://img.shields.io/badge/-Vivado%2FFPGA-FFB300" />
 </p>
 
 ---
