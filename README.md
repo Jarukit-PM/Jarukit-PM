@@ -40,32 +40,11 @@
 </p>
 
 ---
-
-### ✨ What I'm Up To
-
-<details>
-<summary>Current Focus</summary>
-
-- Strengthening end-to-end product building—from system architecture through database modeling to deployment.
-- Experimenting with UI polish: scroll-triggered animations, infinite carousels, and responsive design systems.
-- Building hardware-meets-software experiences (FPGA games, embedded interfaces).
-</details>
-
-<details>
-<summary>Recent Wins</summary>
-
-- 🚀 Shipped Portfolio v3 with new hero CTA, GitHub-powered project feed, and resume link.
-- 🕹️ Delivered Pacman FPGA bitstream ready for Basys 3 boards, with layered VGA compositor.
-- 👥 Led HR module delivery for ModEd inside the CPE494 Fullstack cohort (over 30 collaborators).
-</details>
-
----
-
 ### 📫 Connect
 
-- Portfolio: [jarukit-pm.github.io/portfolio](https://jarukit-pm.github.io/portfolio/)
+- Portfolio: [jarukit-pm.github.io/portfolio](https://jarukit-pm.github.io/Portfolio/)
 - Resume (web): [jarukit-pm.github.io/My-Resume](https://jarukit-pm.github.io/My-Resume)
 - LinkedIn: [linkedin.com/in/jarukit-pan-iam-10b84b391](https://www.linkedin.com/in/jarukit-pan-iam-10b84b391/)
 - GitHub: [@Jarukit-PM](https://github.com/Jarukit-PM)
 
-> Always happy to chat about frontend craftsmanship, fullstack architecture, or even Verilog-based gaming 🤝
+> Always happy to chat about frontend craftsmanship, fullstack architecture 🤝
